@@ -2,7 +2,6 @@ import scrapy
 import time
 import random
 
-
 class Boxrec1Spider(scrapy.Spider):
     name = "boxrec1"
 
